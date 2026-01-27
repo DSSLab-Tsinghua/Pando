@@ -1,0 +1,6 @@
+2025-07-15-16071752567015 batchsize100: (TotalLatency,1998.43 ms)(TotalTPS,1050.83 tx/s)
+2025-07-15-16071752567103 batchsize300: (TotalLatency,2803.72 ms)(TotalTPS,2247.01 tx/s)
+2025-07-15-16071752567213 batchsize500: (TotalLatency,2015.17 ms)(TotalTPS,5210.47 tx/s)
+2025-07-15-16071752567300 batchsize1000: (TotalLatency,2633.0 ms)(TotalTPS,7975.69 tx/s)
+2025-07-15-16071752567407 batchsize3000: (TotalLatency,2844.92 ms)(TotalTPS,22144.71 tx/s)
+2025-07-15-16071752567516 batchsize5000: (TotalLatency,1987.32 ms)(TotalTPS,52834.97 tx/s)
