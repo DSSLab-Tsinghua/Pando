@@ -1,5 +1,7 @@
 # Pando: Extremely Scalable BFT Based on Committee Sampling
 
+<a href="https://doi.org/10.5281/zenodo.18389201"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18389201.svg" alt="DOI"></a>
+
 Byzantine fault-tolerant (BFT) protocols are known to suffer from the scalability issue. Indeed, their performance degrades drastically as the number of replicas $n$ grows. While a long line of work has attempted to achieve the scalability goal, these works can only scale to roughly a hundred replicas, particularly on low-end machines. 
 
 In this paper, we develop BFT protocols from the so-called committee sampling approach that selects a small committee for consensus and conveys the results to all replicas. Such an approach, however, has been focused on the Byzantine agreement (BA) problem (considering replicas only) instead of the BFT problem (in the client-replica model); also, the approach is mainly of theoretical interest only, as concretely, it works for impractically large $n$. 
