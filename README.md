@@ -1,5 +1,7 @@
 # Pando: Extremely Scalable BFT Based on Committee Sampling
 
+<img src="etc/logo.png" alt="Logo" width="200"/>
+
 <a href="https://doi.org/10.5281/zenodo.18389201"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18389201.svg" alt="DOI"></a>
 
 Byzantine fault-tolerant (BFT) protocols are known to suffer from the scalability issue. Indeed, their performance degrades drastically as the number of replicas $n$ grows. While a long line of work has attempted to achieve the scalability goal, these works can only scale to roughly a hundred replicas, particularly on low-end machines. 
